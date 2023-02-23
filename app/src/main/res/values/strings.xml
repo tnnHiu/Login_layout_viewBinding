@@ -5,4 +5,5 @@
     <string name="user_name">User name</string>
     <string name="login">Login</string>
     <string name="login_btn">Login</string>
+    <string name="login_app">Login App</string>
 </resources>
